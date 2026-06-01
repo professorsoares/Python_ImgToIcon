@@ -156,7 +156,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-.venvEditorTexto
+.venvImgToIcon
 
 # Spyder project settings
 .spyderproject
